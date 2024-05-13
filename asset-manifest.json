@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/castorandpollux2/static/css/main.5cfba728.css",
-    "main.js": "/castorandpollux2/static/js/main.6a7faf64.js",
-    "static/js/787.843c90da.chunk.js": "/castorandpollux2/static/js/787.843c90da.chunk.js",
+    "main.js": "/castorandpollux2/static/js/main.cff1a258.js",
+    "static/js/787.8e77b75e.chunk.js": "/castorandpollux2/static/js/787.8e77b75e.chunk.js",
     "static/media/castor-and-pollux-hero-video.mp4": "/castorandpollux2/static/media/castor-and-pollux-hero-video.7886c172e7720fe6be9a.mp4",
     "static/media/DSC02298.jpeg": "/castorandpollux2/static/media/DSC02298.98905f7afe6bf50b34d4.jpeg",
     "static/media/Montserrat-ExtraBoldItalic.ttf": "/castorandpollux2/static/media/Montserrat-ExtraBoldItalic.a22f67090d6cf291405a.ttf",
@@ -22,11 +22,11 @@
     "static/media/twitch.svg": "/castorandpollux2/static/media/twitch.6f322047fed813bd22470cfcd3f24e0c.svg",
     "static/media/facebook.svg": "/castorandpollux2/static/media/facebook.acd66cb0a8fe91db24c8a48265cf4f25.svg",
     "main.5cfba728.css.map": "/castorandpollux2/static/css/main.5cfba728.css.map",
-    "main.6a7faf64.js.map": "/castorandpollux2/static/js/main.6a7faf64.js.map",
-    "787.843c90da.chunk.js.map": "/castorandpollux2/static/js/787.843c90da.chunk.js.map"
+    "main.cff1a258.js.map": "/castorandpollux2/static/js/main.cff1a258.js.map",
+    "787.8e77b75e.chunk.js.map": "/castorandpollux2/static/js/787.8e77b75e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cfba728.css",
-    "static/js/main.6a7faf64.js"
+    "static/js/main.cff1a258.js"
   ]
 }
