@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5fc2c5a3.css",
-    "main.js": "/static/js/main.b97c81de.js",
+    "main.js": "/static/js/main.c414f2bb.js",
     "static/js/787.63fc577a.chunk.js": "/static/js/787.63fc577a.chunk.js",
     "static/media/castor-and-pollux-hero-video.mp4": "/static/media/castor-and-pollux-hero-video.7886c172e7720fe6be9a.mp4",
     "static/media/DSC02298.jpeg": "/static/media/DSC02298.98905f7afe6bf50b34d4.jpeg",
@@ -22,11 +22,11 @@
     "static/media/twitch.svg": "/static/media/twitch.6f322047fed813bd22470cfcd3f24e0c.svg",
     "static/media/facebook.svg": "/static/media/facebook.acd66cb0a8fe91db24c8a48265cf4f25.svg",
     "main.5fc2c5a3.css.map": "/static/css/main.5fc2c5a3.css.map",
-    "main.b97c81de.js.map": "/static/js/main.b97c81de.js.map",
+    "main.c414f2bb.js.map": "/static/js/main.c414f2bb.js.map",
     "787.63fc577a.chunk.js.map": "/static/js/787.63fc577a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fc2c5a3.css",
-    "static/js/main.b97c81de.js"
+    "static/js/main.c414f2bb.js"
   ]
 }
