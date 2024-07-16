@@ -1,5 +1,14 @@
 # Official Homepage of NY DJs Castor & Pollux
 
+### Visit [https://castorandpolluxofficial.com](https://castorandpolluxofficial.com)
+
+## Features
+
+- Fully responsive
+- bandsintown Tour Dates
+- SoundCloud player
+- 4 most recent Spotify releases 
+
 
 ## Desktop
 ![Homepage](./Castor_and_pollux_homepage_desktop.png)
@@ -10,13 +19,6 @@
 </p>
 
 
-## Features
-
-- bandsintown Tour Dates
-- SoundCloud player
-- 4 most recent Spotify releases 
-
-
 ## Stack
 
 - **React**
@@ -24,9 +26,11 @@
 - **Sass**
 - **Create React App**
 
+
 ## Contributions
 
 No contributions are allowed for this project.
+
 
 ## Sharing
 
