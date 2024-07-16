@@ -20,4 +20,5 @@ No contributions are allowed for this project.
 This project is not intended for sharing. No instructions for running or copying the repository are provided.
 
 ---
-© 2024 Jonathan Silva, Castor & Pollux [https://jonathansilva.io](https://jonathansilva.io)
+© 2024 Jonathan Silva [https://jonathansilva.io](https://jonathansilva.io)
+© 2024 Castor & Pollux [https://castorandpolluxofficial.com](https://castorandpolluxofficial.com)
