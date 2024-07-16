@@ -1,5 +1,9 @@
 # Official Homepage of NY DJs Castor & Pollux
 
+## Desktop
+
+![Homepage](./Castor_and_pollux_homepage_desktop.png)
+
 ## Stack
 
 - **React**
