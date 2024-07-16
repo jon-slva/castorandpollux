@@ -1,8 +1,21 @@
 # Official Homepage of NY DJs Castor & Pollux
 
-## Desktop
 
+## Desktop
 ![Homepage](./Castor_and_pollux_homepage_desktop.png)
+
+## Mobile
+<p align="center">
+  <img src="./Castor_and_pollux_homepage_mobile.png" alt="Homepage" style="height: 600px;">
+</p>
+
+
+## Features
+
+- bandsintown Tour Dates
+- SoundCloud player
+- 4 most recent Spotify releases 
+
 
 ## Stack
 
