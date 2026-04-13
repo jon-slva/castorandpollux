@@ -30,14 +30,13 @@ const Contact = () => {
 						>
 							mgmt@castorandpolluxofficial.com
 						</a>
-    
-    						<h3 className="contact__container-column--header">Bookings</h3>
-    						<a
-							href="mailto:stephen@output.fm"
-							className="contact__container-column--link"
-				        >
-                            stephen@output.fm
-                        </a>
+							<h3 className="contact__container-column--header">Bookings</h3>
+							<a
+								href="mailto:stephen@output.fm"
+								className="contact__container-column--link"
+							>
+								stephen@output.fm
+							</a>
 					</aside>
 				</div>
 
